@@ -1,4 +1,4 @@
-# $schema: https://raw.githubusercontent.com/GitTools/GitVersion/main/schemas/6.1/GitVersion.configuration.json
+# $schema: https://gitversion.net/schemas/6.4/GitVersion.configuration.json
 assembly-versioning-scheme: MajorMinorPatch
 branches:
   main:
